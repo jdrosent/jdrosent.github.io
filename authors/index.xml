@@ -5,7 +5,7 @@
     <link>https://jdrosent.github.io/authors/</link>
       <atom:link href="https://jdrosent.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`© 2019`</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdrosent.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,13 +13,101 @@
     </image>
     
     <item>
+      <title>A. Sharma</title>
+      <link>https://jdrosent.github.io/authors/a.-sharma/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/a.-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Kampianakis</title>
+      <link>https://jdrosent.github.io/authors/e.-kampianakis/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/e.-kampianakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Rosenthal</title>
+      <link>https://jdrosent.github.io/authors/j.-rosenthal/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/j.-rosenthal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. S. Reynolds</title>
+      <link>https://jdrosent.github.io/authors/m.-s.-reynolds/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/m.-s.-reynolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. T. Moritz</title>
+      <link>https://jdrosent.github.io/authors/c.-t.-moritz/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/c.-t.-moritz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. R. Smith</title>
+      <link>https://jdrosent.github.io/authors/j.-r.-smith/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/j.-r.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Arjona</title>
+      <link>https://jdrosent.github.io/authors/l.-arjona/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/l.-arjona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Dadkhah</title>
+      <link>https://jdrosent.github.io/authors/a.-dadkhah/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/a.-dadkhah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Pike</title>
+      <link>https://jdrosent.github.io/authors/a.-pike/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/a.-pike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Hayes</title>
+      <link>https://jdrosent.github.io/authors/b.-hayes/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/b.-hayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Mertens</title>
+      <link>https://jdrosent.github.io/authors/c.-mertens/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/c.-mertens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://jdrosent.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jdrosent.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hello, I am a Ph.D. student at the University of Washington in the Department of Electrical &amp;amp; Computer Engineering. My studies are supported by the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).&lt;/p&gt;
+      <description>&lt;p&gt;Hello, I am a Ph.D. student at the University of Washington in the &lt;a href=&#34;https://www.ece.uw.edu/&#34;&gt;Department of Electrical &amp;amp; Computer Engineering&lt;/a&gt;. My studies are supported by the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).&lt;/p&gt;
 &lt;p&gt;My research focuses on developing novel wireless sensing systems that are smaller, lighter, and more energy efficient. These systems in turn enable exploration of new extreme environments, like other planets and the brain.&lt;/p&gt;
-&lt;p&gt;Much of my work focuses on embedded-electronics and instrumentation hardware for government, industry, and academic research. Examples include nanosatellite avionics, ultra-low power wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons.&lt;/p&gt;
+&lt;p&gt;Much of my work focuses on embedded-electronics and instrumentation hardware for government, industry, and academic research. Examples include nanosatellite avionics, ultra-low power wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons. For more info, see my &lt;a href=&#34;files/cv.pdf&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

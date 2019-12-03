@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Pike | James Rosenthal</title>
+    <link>https://jdrosent.github.io/authors/a.-pike/</link>
+      <atom:link href="https://jdrosent.github.io/authors/a.-pike/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Pike</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jdrosent.github.io/img/icon-192.png</url>
+      <title>A. Pike</title>
+      <link>https://jdrosent.github.io/authors/a.-pike/</link>
+    </image>
+    
+    <item>
+      <title>Wideband UHF DQPSK Backscatter Communication in Reverberant Cavity Animal Cage Environments</title>
+      <link>https://jdrosent.github.io/publication/sha-kam-rose-rey-tap-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/sha-kam-rose-rey-tap-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 1 Mbps 158 pJ/bit Bluetooth Low Energy (BLE) Compatible Backscatter Communication Uplink for Wireless Neural Recording in an Animal Cage Environment</title>
+      <link>https://jdrosent.github.io/publication/rose-pike-rey-rfid-19/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-pike-rey-rfid-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

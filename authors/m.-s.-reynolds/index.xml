@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. S. Reynolds | James Rosenthal</title>
+    <link>https://jdrosent.github.io/authors/m.-s.-reynolds/</link>
+      <atom:link href="https://jdrosent.github.io/authors/m.-s.-reynolds/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. S. Reynolds</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jdrosent.github.io/img/icon-192.png</url>
+      <title>M. S. Reynolds</title>
+      <link>https://jdrosent.github.io/authors/m.-s.-reynolds/</link>
+    </image>
+    
+    <item>
+      <title>A 1.0-Mb/s 198-pJ/bit Bluetooth Low-Energy Compatible Single Sideband Backscatter Uplink for the NeuroDisc Brain–Computer Interface</title>
+      <link>https://jdrosent.github.io/publication/rose-rey-tmtt-19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-rey-tmtt-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 25 Mbps, 12.4 pJ/b DQPSK backscatter Data Uplink for the NeuroDisc Brain–Computer Interface</title>
+      <link>https://jdrosent.github.io/publication/ros-kam-shar-rey-t-bio-c-19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/ros-kam-shar-rey-t-bio-c-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wideband UHF DQPSK Backscatter Communication in Reverberant Cavity Animal Cage Environments</title>
+      <link>https://jdrosent.github.io/publication/sha-kam-rose-rey-tap-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/sha-kam-rose-rey-tap-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 1 Mbps 158 pJ/bit Bluetooth Low Energy (BLE) Compatible Backscatter Communication Uplink for Wireless Neural Recording in an Animal Cage Environment</title>
+      <link>https://jdrosent.github.io/publication/rose-pike-rey-rfid-19/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-pike-rey-rfid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 158 pJ/bit 1.0 Mbps Bluetooth Low Energy (BLE) Compatible Backscatter Communication System for Wireless Sensing</title>
+      <link>https://jdrosent.github.io/publication/rose-rey-wi-snet-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-rey-wi-snet-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZeroScatter: Zero-Added-Component Backscatter Communication Using Existing Digital I/O Pins</title>
+      <link>https://jdrosent.github.io/publication/dad-rose-rey-wi-snet-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/dad-rose-rey-wi-snet-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 6.25 Mbps, 12.4 pJ/bit DQPSK backscatter wireless uplink for the NeuroDisc brain-computer interface</title>
+      <link>https://jdrosent.github.io/publication/ros-kam-shar-rey-bio-c-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/ros-kam-shar-rey-bio-c-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

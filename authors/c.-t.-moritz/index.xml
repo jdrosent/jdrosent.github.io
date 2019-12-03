@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. T. Moritz | James Rosenthal</title>
+    <link>https://jdrosent.github.io/authors/c.-t.-moritz/</link>
+      <atom:link href="https://jdrosent.github.io/authors/c.-t.-moritz/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. T. Moritz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jdrosent.github.io/img/icon-192.png</url>
+      <title>C. T. Moritz</title>
+      <link>https://jdrosent.github.io/authors/c.-t.-moritz/</link>
+    </image>
+    
+    <item>
+      <title>High Performance Flexible Protocol for Backscattered-Based Neural Implants</title>
+      <link>https://jdrosent.github.io/publication/arj-rose-smith-moritz-19/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/arj-rose-smith-moritz-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
