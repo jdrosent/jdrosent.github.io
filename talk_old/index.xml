@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk_olds | James Rosenthal</title>
+    <link>https://jdrosent.github.io/talk_old/</link>
+      <atom:link href="https://jdrosent.github.io/talk_old/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talk_olds</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright>
+    <image>
+      <url>https://jdrosent.github.io/img/icon-192.png</url>
+      <title>Talk_olds</title>
+      <link>https://jdrosent.github.io/talk_old/</link>
+    </image>
+    
+    <item>
+      <title>IEEEBioCAS2018</title>
+      <link>https://jdrosent.github.io/talk_old/ieeebiocas2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/talk_old/ieeebiocas2018/</guid>
+      <description>&lt;p&gt;Here is some example text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IEEEBioCAS2018</title>
+      <link>https://jdrosent.github.io/talk_old/ieeebiocas2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/talk_old/ieeebiocas2019/</guid>
+      <description>&lt;p&gt;Here is some example text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://jdrosent.github.io/talk_old/ieeebiocas2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/talk_old/ieeebiocas2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

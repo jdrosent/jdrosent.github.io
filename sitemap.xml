@@ -103,6 +103,16 @@
   </url>
   
   <url>
+    <loc>https://jdrosent.github.io/talk/ieee-wisnet-2019/</loc>
+    <lastmod>2019-01-30T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdrosent.github.io/talk/</loc>
+    <lastmod>2019-01-30T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdrosent.github.io/publication/rose-rey-wi-snet-19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -113,18 +123,8 @@
   </url>
   
   <url>
-    <loc>https://jdrosent.github.io/authors/and-m.-s.-reynolds/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdrosent.github.io/presentations/ieeebiocas2018/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdrosent.github.io/presentations/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <loc>https://jdrosent.github.io/talk/ieee-biocas-2018/</loc>
+    <lastmod>2018-10-18T10:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -156,7 +156,23 @@
   </url>
   
   <url>
+    <loc>https://jdrosent.github.io/talk_old/ieeebiocas2018/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jdrosent.github.io/talk_old/ieeebiocas2019/</loc>
+  </url>
+  
+  <url>
     <loc>https://jdrosent.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jdrosent.github.io/talk_old/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jdrosent.github.io/talk_old/ieeebiocas2018/</loc>
   </url>
   
 </urlset>
