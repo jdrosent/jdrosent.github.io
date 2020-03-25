@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jdrosent.github.io/travel/</loc>
+    <lastmod>2020-03-25T14:17:30-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdrosent.github.io/</loc>
     <lastmod>2020-03-25T12:58:19-07:00</lastmod>
   </url>
@@ -19,6 +24,11 @@
   
   <url>
     <loc>https://jdrosent.github.io/post/neurodisc/</loc>
+    <lastmod>2020-03-24T19:01:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdrosent.github.io/travel/test/</loc>
     <lastmod>2020-03-24T19:01:01-07:00</lastmod>
   </url>
   
@@ -168,22 +178,6 @@
   
   <url>
     <loc>https://jdrosent.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jdrosent.github.io/talk_old/ieeebiocas2018/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jdrosent.github.io/talk_old/ieeebiocas2019/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jdrosent.github.io/talk_old/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jdrosent.github.io/talk_old/ieeebiocas2018/</loc>
   </url>
   
 </urlset>
