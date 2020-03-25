@@ -5,12 +5,30 @@
     <link>https://jdrosent.github.io/</link>
       <atom:link href="https://jdrosent.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>James Rosenthal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 25 Mar 2020 12:58:19 -0700</lastBuildDate>
     <image>
       <url>https://jdrosent.github.io/img/icon-192.png</url>
       <title>James Rosenthal</title>
       <link>https://jdrosent.github.io/</link>
     </image>
+    
+    <item>
+      <title>Low-cost, open-source, carrier wave generator</title>
+      <link>https://jdrosent.github.io/post/cwgenerator/</link>
+      <pubDate>Wed, 25 Mar 2020 12:58:19 -0700</pubDate>
+      <guid>https://jdrosent.github.io/post/cwgenerator/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;photo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeuroDisc: Fully-Digital Wireless Brain-Computer Interface</title>
+      <link>https://jdrosent.github.io/post/neurodisc/</link>
+      <pubDate>Tue, 24 Mar 2020 19:01:01 -0700</pubDate>
+      <guid>https://jdrosent.github.io/post/neurodisc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;photo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A 1.0-Mb/s 198-pJ/bit Bluetooth Low-Energy Compatible Single Sideband Backscatter Uplink for the NeuroDisc Brain–Computer Interface</title>
