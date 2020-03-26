@@ -30,5 +30,46 @@
 </description>
     </item>
     
+    <item>
+      <title>IBPoet</title>
+      <link>https://jdrosent.github.io/post/ibpoet/</link>
+      <pubDate>Thu, 14 Sep 2017 12:58:19 -0700</pubDate>
+      <guid>https://jdrosent.github.io/post/ibpoet/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wS5Gbw_rihw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Encephalophone</title>
+      <link>https://jdrosent.github.io/post/encephalophone/</link>
+      <pubDate>Fri, 01 Sep 2017 12:58:19 -0700</pubDate>
+      <guid>https://jdrosent.github.io/post/encephalophone/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dbRSySv2B3g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;img src=&#34;photo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NASA: Radiation Dosimetry Experiment (RaD-X)</title>
+      <link>https://jdrosent.github.io/post/radx/</link>
+      <pubDate>Thu, 31 Dec 2015 12:58:19 -0700</pubDate>
+      <guid>https://jdrosent.github.io/post/radx/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;photo.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;RaDX_hardware.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;integration.JPG&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Payload_launch.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;RaDX_payload.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Payload_SensorBoard.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
