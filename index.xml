@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Carrier Wave Generator</title>
+      <link>https://jdrosent.github.io/post/cwgenerator/</link>
+      <pubDate>Wed, 25 Mar 2020 12:58:19 -0700</pubDate>
+      <guid>https://jdrosent.github.io/post/cwgenerator/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;photo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Experience Teaching and TAing</title>
       <link>https://jdrosent.github.io/teaching/experience/</link>
       <pubDate>Wed, 25 Mar 2020 12:58:19 -0700</pubDate>
@@ -30,20 +39,13 @@
     </item>
     
     <item>
-      <title>Low-cost, open-source, carrier wave generator</title>
-      <link>https://jdrosent.github.io/post/cwgenerator/</link>
-      <pubDate>Wed, 25 Mar 2020 12:58:19 -0700</pubDate>
-      <guid>https://jdrosent.github.io/post/cwgenerator/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;photo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Student Reviews</title>
       <link>https://jdrosent.github.io/teaching/reviews/</link>
       <pubDate>Wed, 25 Mar 2020 12:58:19 -0700</pubDate>
       <guid>https://jdrosent.github.io/teaching/reviews/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Compilation of student responses from course evaluations. &lt;em&gt;PDF of original evaluation reports available upon request&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Provided below are a few highlights from course evaluations that I&#39;ve received as an instructor and TA.
+&lt;em&gt;PDF copies of the evaluation reports are available upon request&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;em&gt;James answered every single question we asked with patience.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;James was incredibly helpful and thoughtful and contributed well to help me through the labs by being patient and understanding. He presented
 problems in ways that allowed me to developed and work to find the answers on my own.&lt;/em&gt;&lt;/p&gt;
@@ -74,7 +76,7 @@ his ability. I wish he could have taught the whole course.&lt;/em&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>NeuroDisc: Fully-Digital Wireless Brain-Computer Interface</title>
+      <title>NeuroDisc</title>
       <link>https://jdrosent.github.io/post/neurodisc/</link>
       <pubDate>Tue, 24 Mar 2020 19:01:01 -0700</pubDate>
       <guid>https://jdrosent.github.io/post/neurodisc/</guid>
@@ -604,7 +606,7 @@ his ability. I wish he could have taught the whole course.&lt;/em&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>IEEE Wireless Sensor Networks Conference, 2019</title>
+      <title>A 158 pJ/bit 1.0 Mbps Bluetooth Low Energy (BLE) Compatible Backscatter Communication System for Wireless Sensing</title>
       <link>https://jdrosent.github.io/talk/ieee-wisnet-2019/</link>
       <pubDate>Wed, 30 Jan 2019 10:00:00 -0700</pubDate>
       <guid>https://jdrosent.github.io/talk/ieee-wisnet-2019/</guid>
@@ -628,7 +630,7 @@ his ability. I wish he could have taught the whole course.&lt;/em&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>IEEE Biomedical Circuits &amp; Systems Conference, 2018</title>
+      <title>A 6.25 Mbps, 12.4 pJ/bit DQPSK Backscatter Wireless Uplink for the NeuroDisc Brain-Computer Interface</title>
       <link>https://jdrosent.github.io/talk/ieee-biocas-2018/</link>
       <pubDate>Thu, 18 Oct 2018 10:00:00 -0700</pubDate>
       <guid>https://jdrosent.github.io/talk/ieee-biocas-2018/</guid>
@@ -763,7 +765,7 @@ his ability. I wish he could have taught the whole course.&lt;/em&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>IEEE Aerospace Conference, 2018</title>
+      <title>A Silicon Micro Dosimeter for High-Altitude Measurements of Cosmic Radiation</title>
       <link>https://jdrosent.github.io/talk/ieee-aerospace-2018/</link>
       <pubDate>Sun, 04 Mar 2018 10:00:00 -0700</pubDate>
       <guid>https://jdrosent.github.io/talk/ieee-aerospace-2018/</guid>
