@@ -57,9 +57,87 @@
       <link>https://jdrosent.github.io/post/gpx2/</link>
       <pubDate>Thu, 31 Aug 2017 12:58:19 -0700</pubDate>
       <guid>https://jdrosent.github.io/post/gpx2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;photo2.PNG&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;photo.PNG&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;photo1.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;photo2.PNG&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Block diagram of the GPX-2 architecture.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;photo.PNG&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Flight computer PCB layout in Altium Designer (left) and the fully-assembled PCB (right).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;photo1.PNG&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Testing the flight computer with a GOM Space electrical power system.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -74,16 +152,6 @@
 &lt;img src=&#34;Payload_launch.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;RaDX_payload.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;Payload_SensorBoard.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NASA: HUNCH</title>
-      <link>https://jdrosent.github.io/post/hunch/</link>
-      <pubDate>Mon, 30 Sep 2013 12:58:19 -0700</pubDate>
-      <guid>https://jdrosent.github.io/post/hunch/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dailypress.com/news/dp-nws-evg-aviation-academy-nasa-20160527-story.html&#34;&gt;NASA HUNCH article in the Daily Press&lt;/a&gt;
-&lt;img src=&#34;photo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
