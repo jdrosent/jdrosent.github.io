@@ -89,6 +89,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162849992-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-162849992-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -614,7 +650,7 @@ My work has contributed to <a href="post/radx/">improving aviation safety at NAS
 <p>The focus of my dissertation is on reducing the size, weight, and power needs of <a href="post/neurodisc/">wireless brain-computer interfaces</a> to enable 
 new fundamental research and revolutionary clinical applications.
 The power consumption of conventional wireless systems (e.g. WiFi and Bluetooth) is too high for devices like neural implants that are severely size and power constrained.
-<a href="https://youtu.be/0DtW52b6t30?t=654">Did you realize that nearly half your phone is a battery?</a></p>
+<a href="https://youtu.be/0DtW52b6t30?t=654">Did you realize that most your phone is a battery?</a></p>
 <p>I have experience working on embedded-electronics and instrumentation hardware on a breadth of projects and sectors:</p>
 <ul>
 <li><strong>Government -</strong> nanosatellites and drones</li>
