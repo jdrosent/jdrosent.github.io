@@ -1,16 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel | Portfolio</title>
+    <title>Hobbies | Portfolio</title>
     <link>https://jdrosent.github.io/travel/</link>
       <atom:link href="https://jdrosent.github.io/travel/index.xml" rel="self" type="application/rss+xml" />
-    <description>Travel</description>
+    <description>Hobbies</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2020</copyright><lastBuildDate>Wed, 25 Mar 2020 14:17:30 -0700</lastBuildDate>
     <image>
       <url>https://jdrosent.github.io/img/icon-192.png</url>
-      <title>Travel</title>
+      <title>Hobbies</title>
       <link>https://jdrosent.github.io/travel/</link>
     </image>
+    
+    <item>
+      <title>Climbing the E. Ridge of Ingalls Peak- September 2020</title>
+      <link>https://jdrosent.github.io/travel/ingalls-east-2020/</link>
+      <pubDate>Tue, 29 Sep 2020 19:01:01 -0700</pubDate>
+      <guid>https://jdrosent.github.io/travel/ingalls-east-2020/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    View of Mt. Stuart on the approach hike (PC: R. Leong). Ingalls Peak, WA.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;approach.jpg&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Climbing up the snow-covered approach gulley (PC: R. Leong). Ingalls Peak, WA.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;pitch.jpg&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Despite the snow, most of the rock on the climb was excellent. Ingalls Peak, WA.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Sinbad - September 2020</title>

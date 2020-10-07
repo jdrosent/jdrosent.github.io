@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Ph.D. Candidate">
+  <meta name="description" content="Using digitally-tuned capacitors to create inductor-free backscatter modulators">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://jdrosent.github.io/post/">
+  <link rel="alternate" hreflang="en-us" href="https://jdrosent.github.io/post/dtc/">
 
   
 
@@ -129,14 +129,12 @@
 
 
   
-  <link rel="alternate" href="/post/index.xml" type="application/rss+xml" title="Portfolio">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://jdrosent.github.io/post/">
+  <link rel="canonical" href="https://jdrosent.github.io/post/dtc/">
 
   
   
@@ -149,18 +147,65 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Portfolio">
-  <meta property="og:url" content="https://jdrosent.github.io/post/">
-  <meta property="og:title" content="Posts | Portfolio">
-  <meta property="og:description" content="Ph.D. Candidate"><meta property="og:image" content="https://jdrosent.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://jdrosent.github.io/post/dtc/">
+  <meta property="og:title" content="Digitally-Tuned Capacitors for Backscatter Communication | Portfolio">
+  <meta property="og:description" content="Using digitally-tuned capacitors to create inductor-free backscatter modulators"><meta property="og:image" content="https://jdrosent.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://jdrosent.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-10-06T19:01:01-07:00">
+    
+      <meta property="article:published_time" content="2020-10-06T19:01:01-07:00">
+    
+    <meta property="article:modified_time" content="2020-10-07T19:01:01-07:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+  
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://jdrosent.github.io/post/dtc/"
+  },
+  "headline": "Digitally-Tuned Capacitors for Backscatter Communication",
+  
+  "datePublished": "2020-10-06T19:01:01-07:00",
+  "dateModified": "2020-10-07T19:01:01-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "James Rosenthal"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Portfolio",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://jdrosent.github.io/img/icon-512.png"
+    }
+  },
+  "description": "Using digitally-tuned capacitors to create inductor-free backscatter modulators"
+}
+</script>
+
+  
 
   
 
@@ -168,10 +213,13 @@
   
 
 
+  
 
 
 
-  <title>Posts | Portfolio</title>
+
+
+  <title>Digitally-Tuned Capacitors for Backscatter Communication | Portfolio</title>
 
 </head>
 
@@ -453,221 +501,276 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <article class="article">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1>Digitally-Tuned Capacitors for Backscatter Communication</h1>
+
+  
+  <p class="page-subtitle"><p><strong>A wireless backscatter brain-computer interface for electrophysiology experiments</strong></p>
+<p>Digitally-tuned capacitors are an interesting component for RF applications. They are often used to provide dynamic impedance matching for antennas in, e.g. cell phones where external factors influence the resonant frequency of the antenna.
+High quality, low loss inductors are challenging to implement in small integrated circuits, but inductors are useful to designing the impedance constellation of backscatter modulators. For this project, I explored how digitally-tuned capacitors could be used to prototype backscatter communication modulators without using inductors. In the paper I developed a Bluetooth Low Energy (BLE) compatible single-sideband (SSB) backscatter communication uplink using an inductor-free, digitally-tuned capacitance modulator. The FPGA-based approach consumed 35.5 mW of total power, of which 34.8 mW (98.2%) was due to digital logic in the FPGA, and only 600 μW (1.8%) was consumed by the backscatter modulator.
+The measured sideband suppression ratio was 10.7 dB. Over-the-air tests demonstrated compatibility with a completely unmodified (neither hardware nor software modifications) iPad, iPhone, Samsung Android Smartphone, and an off-the-shelf BLE chipset from Nordic Semiconductor.
+This all-digital approach points the way toward future single-chip, inductor-free SSB BLE-compatible backscatter sensors and devices.</p>
+</p>
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Posts</h1>
-
-  
-
-  
-</div>
 
 
-
-<div class="universal-wrapper">
-
-  
+<div class="article-metadata">
 
   
   
+
+  
+  <span class="article-date">
     
-      
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
-  <a href="/post/dtc/" >Digitally-Tuned Capacitors for Backscatter Communication</a>
-
-  
-
-  
-
-  
-
-</div>
-
-    
-  
     
       
-
-
-
-
-
-
-
-
-
-
+          Last updated on
+      
+    
+    Oct 7, 2020
+  </span>
   
-
-
-<div class="view-list-item">
-  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
-  <a href="/post/neurodisc/" >NeuroDisc</a>
 
   
 
   
 
+  
+  
+  
+
+  
   
 
 </div>
 
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
   
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><img src="photo.png" alt=""></p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="">wireless communications</a>
+  
+  <a class="badge badge-light" href="">RFID</a>
+  
+  <a class="badge badge-light" href="">backscatter</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card content-widget-hr">
     
       
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
-  <a href="/post/ibpoet/" >IBPoet</a>
-
-  
-
-  
-
-  
-
-</div>
-
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu0dd8ac06d9ada546ea6b53c40de1755d_145341_250x250_fill_q100_lanczos_center.jpg" alt="Avatar">
     
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://jdrosent.github.io/">James Rosenthal</a></h5>
+      <h6 class="card-subtitle">Ph.D. Candidate</h6>
+      <p class="card-text">My research focuses on developing smaller, lighter, and lower power sensing systems for exploring extreme environments.</p>
+      <ul class="network-icon" aria-hidden="true">
   
+    
+    
     
       
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
-  <a href="/post/encephalophone/" >Encephalophone</a>
-
-  
-
-  
-
-  
-
-</div>
-
     
-  
+    
+    
+    
     
       
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
-  <a href="/post/gpx2/" >NASA: GPX2 Nanosatellite</a>
-
-  
-
-  
-
-  
-
-</div>
-
     
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
   
+    
+    
     
       
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
-  <a href="/post/radx/" >NASA: Radiation Dosimetry Experiment (RaD-X)</a>
-
-  
-
-  
-
-  
-
-</div>
-
     
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/jamesdrosenthal/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=Rb8iW3EAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/jamesdrosenthal" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
   
 
-  
 
 
-</div>
+  </div>
+</article>
 
       
 
