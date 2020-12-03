@@ -5,12 +5,44 @@
     <link>https://jdrosent.github.io/publication/</link>
       <atom:link href="https://jdrosent.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2020</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdrosent.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://jdrosent.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Hardware-Efficient All-Digital Architectures for OFDM Backscatter Modulators</title>
+      <link>https://jdrosent.github.io/publication/rose-rey-tmtt-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-rey-tmtt-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-Digital Single Sideband (SSB) Bluetooth Low Energy (BLE) Backscatter with an Inductor-free, Digitally-Tuned Capacitance Modulator</title>
+      <link>https://jdrosent.github.io/publication/rose-rey-ims-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-rey-ims-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dual-Band Shared-Hardware 900 MHz 6.25 Mbps DQPSK and 2.4 GHz 1.0 Mbps Bluetooth Low Energy (BLE) Backscatter Uplink for Wireless Brain-Computer Interfaces</title>
+      <link>https://jdrosent.github.io/publication/rose-rey-rfid-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-rey-rfid-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Low-Cost 1 Mbps Frequency Shift Keying Backscatter Receiver and Carrier Wave Generator System for Wireless Neural Recording</title>
+      <link>https://jdrosent.github.io/publication/petr-rose-rey-rfid-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/petr-rose-rey-rfid-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A 1.0-Mb/s 198-pJ/bit Bluetooth Low-Energy Compatible Single Sideband Backscatter Uplink for the NeuroDisc Brain–Computer Interface</title>
