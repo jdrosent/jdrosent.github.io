@@ -1,3 +1,6 @@
 academic import --bibtex <path_to_your/publications.bib>
 
+Navigate to Hugo/Sites/My_Website, then use command below
+$ academic import --bibtex "/c/Users/Jimmy/Documents/Hugo/Sites/My_Website/content/publication/publications.bib"
+
 COMMAND FOR UPDATING PUBLICATIONS

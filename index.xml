@@ -5,12 +5,28 @@
     <link>https://jdrosent.github.io/</link>
       <atom:link href="https://jdrosent.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2020</copyright><lastBuildDate>Tue, 06 Oct 2020 19:01:01 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2020</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdrosent.github.io/img/icon-192.png</url>
       <title>Portfolio</title>
       <link>https://jdrosent.github.io/</link>
     </image>
+    
+    <item>
+      <title>On-the-fly Adaptation of Backscatter Modulator Impedances Using Digitally-Tuned Capacitors</title>
+      <link>https://jdrosent.github.io/publication/rose-rey-wi-snet-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-rey-wi-snet-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-Efficient All-Digital Architectures for OFDM Backscatter Modulators</title>
+      <link>https://jdrosent.github.io/publication/rose-rey-tmtt-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-rey-tmtt-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Digitally-Tuned Capacitors for Backscatter Communication</title>
@@ -19,6 +35,14 @@
       <guid>https://jdrosent.github.io/post/dtc/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;photo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Dual-Band Shared-Hardware Backscatter Uplink for Wireless Brain-Computer Interfaces</title>
+      <link>https://jdrosent.github.io/talk/ieee-rfid-2020/</link>
+      <pubDate>Tue, 06 Oct 2020 10:00:00 -0700</pubDate>
+      <guid>https://jdrosent.github.io/talk/ieee-rfid-2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -397,6 +421,14 @@ his ability. I wish he could have taught the whole course.&lt;/em&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>A 25 Mbps, 12.4 pJ/bit Backscatter Data Uplink for the NeuroDisc BCI</title>
+      <link>https://jdrosent.github.io/talk/uwece-poster-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 -0700</pubDate>
+      <guid>https://jdrosent.github.io/talk/uwece-poster-2020/</guid>
+      <description></description>
     </item>
     
     <item>
