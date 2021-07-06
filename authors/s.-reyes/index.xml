@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Reyes | James Rosenthal</title>
+    <link>https://jdrosent.github.io/authors/s.-reyes/</link>
+      <atom:link href="https://jdrosent.github.io/authors/s.-reyes/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Reyes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jdrosent.github.io/img/icon-192.png</url>
+      <title>S. Reyes</title>
+      <link>https://jdrosent.github.io/authors/s.-reyes/</link>
+    </image>
+    
+    <item>
+      <title>Electronic Mode Stirring for Improved Backscatter Communication Link Margin in a Reverberant Cavity Animal Cage Environment</title>
+      <link>https://jdrosent.github.io/publication/rose-pike-rey-rey-tap-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/publication/rose-pike-rey-rey-tap-21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://jdrosent.github.io/authors/</link>
       <atom:link href="https://jdrosent.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J. Rosenthal 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdrosent.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>A. Pike</title>
+      <link>https://jdrosent.github.io/authors/a.-pike/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/a.-pike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>J. Rosenthal</title>
       <link>https://jdrosent.github.io/authors/j.-rosenthal/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://jdrosent.github.io/authors/j.-rosenthal/</guid>
       <description></description>
     </item>
@@ -23,8 +31,16 @@
     <item>
       <title>M. S. Reynolds</title>
       <link>https://jdrosent.github.io/authors/m.-s.-reynolds/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://jdrosent.github.io/authors/m.-s.-reynolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Reyes</title>
+      <link>https://jdrosent.github.io/authors/s.-reyes/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jdrosent.github.io/authors/s.-reyes/</guid>
       <description></description>
     </item>
     
@@ -85,14 +101,6 @@
     </item>
     
     <item>
-      <title>A. Pike</title>
-      <link>https://jdrosent.github.io/authors/a.-pike/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://jdrosent.github.io/authors/a.-pike/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>B. Hayes</title>
       <link>https://jdrosent.github.io/authors/b.-hayes/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
@@ -122,7 +130,7 @@ in embedded systems can reduce the size, weight, and power consumption of wirele
 &lt;p&gt;Outside of research, I&#39;m passionate about &lt;a href=&#34;https://jdrosent.github.io/teaching/&#34;&gt;teaching, outreach, and mentoring&lt;/a&gt;. At UW, I had the opportunity to work as the &lt;strong&gt;instructor of record&lt;/strong&gt; for &lt;em&gt;EE417-Wireless Communications&lt;/em&gt; in 2020 and 2021
 and as a &lt;strong&gt;teaching assistant&lt;/strong&gt; over six academic quarters. I also co-host a scicomm podcast, &lt;a href=&#34;www.paperboyspodcast.com&#34;&gt;&lt;em&gt;The Paperboys&lt;/em&gt;&lt;/a&gt;, with fellow UW grad student &lt;a href=&#34;https://www.linkedin.com/in/charleslawsonkelly/&#34;&gt;Charlie Kelly&lt;/a&gt;. 
 Each episode, we read and discuss the research papers behind headline science news.&lt;/p&gt;
-&lt;p&gt;For more details, check out my &lt;a href=&#34;files/cv.pdf&#34;&gt;CV&lt;/a&gt;, &lt;a href=&#34;publication&#34;&gt;Publications&lt;/a&gt;, &lt;a href=&#34;#projects&#34;&gt;Projects&lt;/a&gt;, and &lt;a href=&#34;https://jdrosent.github.io/travel/&#34;&gt;hobbies&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, check out my &lt;a href=&#34;files/cv.pdf&#34;&gt;CV&lt;/a&gt;, &lt;a href=&#34;publication&#34;&gt;Publications&lt;/a&gt;, &lt;a href=&#34;#projects&#34;&gt;Projects&lt;/a&gt;, and a few &lt;a href=&#34;https://jdrosent.github.io/travel/&#34;&gt;Hobbies&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
