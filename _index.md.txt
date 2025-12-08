@@ -1,0 +1,10 @@
+---
+title: "My personal page"
+---
+
+<img src="/images/profile.jpg" alt="Profile" style="width:160px; border-radius:50%;">
+
+## James Rosenthal
+
+[LinkedIn →](https://www.linkedin.com/in/jamesdrosenthal/)  
+[Google Scholar →](https://scholar.google.com/citations?user=PTB_SLwAAAAJ)
